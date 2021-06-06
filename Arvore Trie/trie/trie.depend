@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1621569604 source:c:\users\vitor\desktop\ead\aed 2\programas\arvore trie\trie\main.c
+	<stdio.h>
+	<stdlib.h>
+	"trie.h"
+
+1621565360 c:\users\vitor\desktop\ead\aed 2\programas\arvore trie\trie\trie.h
+
+1621567177 source:c:\users\vitor\desktop\ead\aed 2\programas\arvore trie\trie\trie.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"trie.h"
+
